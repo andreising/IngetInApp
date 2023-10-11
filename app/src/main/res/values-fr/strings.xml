@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IngetInApp</string>
+    <string name="onboard_txt_1">Gérez facilement vos forfaits par téléphone</string>
+    <string name="onboard_txt_2">La meilleure application pour gérer facilement vos projets sur téléphone mobile</string>
+    <string name="continue_txt">Continuer</string>
+    <string name="all_plans">Tous les forfaits</string>
+    <string name="generals">Général</string>
+    <string name="personal">Personnel</string>
+    <string name="this_week">Cette semaine</string>
+    <string name="next_week">La semaine prochaine</string>
+    <string name="title">Titre..</string>
+    <string name="description">Description..</string>
+</resources>

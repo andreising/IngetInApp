@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IngetInApp</string>
+    <string name="onboard_txt_1">Легко управляйте своими планами на телефоне</string>
+    <string name="onboard_txt_2">Лучшее приложение для удобного управления своими планами на мобильном телефоне</string>
+    <string name="continue_txt">Продолжать</string>
+    <string name="all_plans">Все планы</string>
+    <string name="generals">Общий</string>
+    <string name="personal">Персональный</string>
+    <string name="this_week">На этой неделе</string>
+    <string name="next_week">На следующей неделе</string>
+    <string name="title">Заголовок..</string>
+    <string name="description">Описание..</string>
+</resources>

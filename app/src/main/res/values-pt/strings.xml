@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IngetInApp</string>
+    <string name="onboard_txt_1">Gerencie seus planos facilmente pelo telefone</string>
+    <string name="onboard_txt_2">O melhor aplicativo para gerenciar seus planos facilmente no celular</string>
+    <string name="continue_txt">Continuar</string>
+    <string name="all_plans">Todos os planos</string>
+    <string name="generals">Em geral</string>
+    <string name="personal">Pessoal</string>
+    <string name="this_week">Essa semana</string>
+    <string name="next_week">Semana que vem</string>
+    <string name="title">Título..</string>
+    <string name="description">Descrição..</string>
+</resources>
